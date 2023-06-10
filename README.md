@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on building projects & growing professionally<br>👯 I’m looking to collaborate on exciting software development projects<br>🌱 I’m currently learning React.js, and soon SQL<br>⚡ Fun fact: I'm a language lover
+🔭 I’m currently working on building projects & growing professionally<br>👯 I’m looking to collaborate on exciting software development projects<br>🌱 I’m currently learning React.js, Node.js, and soon SQL<br>⚡ Fun fact: I'm a language lover
 
 
 ## 🌐 Socials:
